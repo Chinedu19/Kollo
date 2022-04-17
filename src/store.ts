@@ -1,3 +1,4 @@
 export const colors ={
-    primary: '#FF4500'
+    primary: '#FF4500',
+    lightGray: '#EFEFEF',
 }
